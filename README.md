@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Harshit 👋
 
-<!--
-**thundereye13/thundereye13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student (AKTU)
+💻 Learning Python, Cybersecurity & Game Development
+🎮 Aspiring Game Developer
 
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python (Beginner)
+* C#, Java, C
+* HTML, CSS, JavaScript
+* SQL
+* Basic Cybersecurity
+* Unity (Game Development)
+
+## 📚 Currently Learning
+
+* Python Projects
+* Unity + C#
+* Data Structures
+
+## 🎯 Goal
+
+I want to become a Game Developer and build multiplayer games that connect people and make them feel happy.
+
+## 📂 My Projects
+
+* Job Hub Website: https://thundereye13.github.io/JobsHub/
+
+## 📫 Contact
+
+* Email: [harshitshukla3655@gmail.com](mailto:harshitshukla3655@gmail.com)
+* GitHub: https://github.com/thundereye13
